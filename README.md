@@ -35,8 +35,4 @@ Build a system to manage library operations including book lending, returns, and
 4. Access H2 Console at `http://localhost:8080/h2-console` (JDBC URL: `jdbc:h2:mem:testdb`) if needed.
 
 ## Author  
-Divya Adabala
-
----
-
-Feel free to customize this further if you want to add screenshots, API documentation, or usage examples.
+Adabala Divya SAi Suseela
